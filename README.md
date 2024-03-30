@@ -160,6 +160,8 @@ for result in search_results:
 ### Output:
 <img width="317" alt="image" src="https://github.com/KeerthikaNagarajan/WDM_EXP6/assets/93427089/d04e9fc7-dee1-445c-a35c-7cf7228bf25e">
 
+<br>
+
 <img width="381" alt="image" src="https://github.com/KeerthikaNagarajan/WDM_EXP6/assets/93427089/5b8672f6-6e81-4d31-9cf9-d5f67425bff7">
 
 ### Result:
